@@ -3,6 +3,5 @@ matplotlib.pyplot
 pandas
 numpy
 seaborn
-pickle
 wordcloud
 pip
